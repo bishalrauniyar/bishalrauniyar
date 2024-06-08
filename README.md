@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bishalrauniyar&label=Profile%20views&color=0e75b6&style=flat" alt="bishalrauniyar" /> </p>
 
-- 🔭 I’m currently working on [FaceProcessing Model](https://huggingface.co/spaces/bishalrauniyar/FaceProcessingModel)
+- 🔭 I’m currently working on [Deep Learning Projects](https://huggingface.co/spaces/bishalrauniyar/FaceProcessingModel)
 
 - 🌱 I’m currently learning **Data Science & DevOps**
 
